@@ -1,6 +1,6 @@
 ## Hi there, I am TEJAL🙋🏻‍♀️
 
-  <img align="right" alt="GIF" src="https://github.com/TejalBhalerao/TejalBhalerao/blob/main/git-gif.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/TejalBhalerao/TejalBhalerao/blob/main/git-gif.gif?raw=true" width="400" height="300" />
   
 ### I'm a Data Analyst and a life-long learner!!
 
@@ -8,7 +8,7 @@
 - 👩🏻‍💻 A Northeastern University Graduate - Masters in Information Systems 
 - 🖥️ A Pune University Graduate - Bachelors in Computer Engineering
 - 📝 Love to make my Data Talk!
-- - 📊 A Data Enthusiast looking for opportunities to grow in the field of Data Analytics, Business Analysis & BI
+- 📊 A Data Enthusiast looking for opportunities to grow in the field of Data Analytics, Business Analysis & BI
 - 👯 I’m looking to collaborate for Data & Business Intelligence Projects 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy watching sunsets while sipping my coffee
