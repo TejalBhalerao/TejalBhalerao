@@ -4,7 +4,7 @@
   
 ### I'm a Data Analyst and a life-long learner!!
 
-# ✨ About Me in 30 Secs ✨
+##### ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 A Northeastern University Graduate - Masters in Information Systems 
 - 🖥️ A Pune University Graduate - Bachelors in Computer Engineering
 - 📝 Love to make my Data Talk!
