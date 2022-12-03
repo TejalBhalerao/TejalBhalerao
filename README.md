@@ -18,12 +18,13 @@
 - Communication (I take big notions & make them digestible🗣️)
 - Presentation (there's no teammate I can't connect with 🤝)
 - Quick Learner & Consistent disciple (I learn something new every day🌱)
-- Organization & Structure are my pillars 
+- Organization & Structure are my pillars📆
 
 ### 💡 Core Competencies 💡
 - 📊 Tools: SQL, Python, Excel, PowerBI, Tableau, Azure, Alteryx, DAX, JIRA, Selenium, Adhoc reporting
 - 📈 Skills: Data Analysis, Data Cleaning and Wrangling, Data Visualisation, Business Analysis, Relational Databases, Dashboard Design and Development
 
-- 💁‍♀️ On a personal level, I am meticulous, organized, and precise in my work. The only things cleaner than my room are my visualizations. I have strong communication skills with a knack for clear and illuminating presentations
+
+- #####💁‍♀️ On a personal level, I am meticulous, organized, and precise in my work. The only things cleaner than my room are my visualizations. I have strong communication skills with a knack for clear and illuminating presentations
 - I am seeking full-time opportunities from January 2023
 - If my background fits your organization’s needs, please contact me
