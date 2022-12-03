@@ -26,5 +26,5 @@
 - 📈 Skills: Data Analysis, Data Cleaning and Wrangling, Data Visualisation, Business Analysis, Relational Databases, Dashboard Design and Development
 
 ### 🙌🏻 Connect with Me
-- <img align="left" alt="holisitc_developer|LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[LinkedIn](https://www.linkedin.com/in/tejalbhalerao/) 
+- <img align="left" alt="holisitc_developer|LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>[LinkedIn](https://www.linkedin.com/in/tejalbhalerao/) 
 - 📧 Email : bhalerao.t@northeastern.edu 
