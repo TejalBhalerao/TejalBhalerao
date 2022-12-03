@@ -16,11 +16,12 @@
 
 
 ### 💪 Strengths 💪:
-🔹Story Telling through Data (big picture ➡️ meaningful insights)
+- 😄 Pronouns: She/Her
+- ⚡ Story Telling through Data (big picture ➡️ meaningful insights)
 🔹Communication (I take big notions & make them digestible🗣️)
-🔹Presentation (there's no teammate I can't connect with 🤝)
-🔹Quick Learner & Consistent disciple (I learn something new every day📚)
-🔹Organization & Structure are my pillars 
+- 🔹Presentation (there's no teammate I can't connect with 🤝)
+- 🔹Quick Learner & Consistent disciple (I learn something new every day📚)
+- 🔹Organization & Structure are my pillars 
 
 Tech:
 🔸Programming Skills: SQL, Python (Skicit-learn, NumPy, Pandas, Matplotlib), Java, DAX
