@@ -1,5 +1,6 @@
 ## Hi there, I am TEJAL🙋🏻‍♀️
 ### I'm a Data Analyst and a life-long learner!!
+<img align="right" alt="GIF" src="https://github.com/TejalBhalerao/TejalBhalerao/blob/main/git-gif.gif?raw=true" width="500" height="320" />
 <!--
 **TejalBhalerao/TejalBhalerao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
