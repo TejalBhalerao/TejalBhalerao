@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ✨ About Me in 30 Secs ✨
+## ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 A Northeastern University Graduate - Masters in Information Systems 
 - 🖥️ A Pune University Graduate - Bachelors in Computer Engineering
 - 📝 Love to make my Data Talk!
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate for Data & Business Intelligence Projects 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy watching sunsets while sipping my coffee
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Connect with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 
 ### 💪 Strengths 💪:
