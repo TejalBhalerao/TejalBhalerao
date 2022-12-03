@@ -1,20 +1,9 @@
 ## Hi there, I am TEJAL🙋🏻‍♀️
+
+  <img align="right" alt="GIF" src="https://github.com/TejalBhalerao/TejalBhalerao/blob/main/git-gif.gif?raw=true" width="500" height="320" />
+  
 ### I'm a Data Analyst and a life-long learner!!
-<img align="right" alt="GIF" src="https://github.com/TejalBhalerao/TejalBhalerao/blob/main/git-gif.gif?raw=true" width="500" height="320" />
-<!--
-**TejalBhalerao/TejalBhalerao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on upskilling my Data career
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 A Northeastern University Graduate - Masters in Information Systems 
 - 🖥️ A Pune University Graduate - Bachelors in Computer Engineering
