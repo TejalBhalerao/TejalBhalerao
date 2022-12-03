@@ -24,3 +24,7 @@
 ### 💡 Core Competencies 💡
 - 📊 Tools: SQL, Python, Excel, PowerBI, Tableau, Azure, Alteryx, DAX, JIRA, Selenium, Adhoc reporting
 - 📈 Skills: Data Analysis, Data Cleaning and Wrangling, Data Visualisation, Business Analysis, Relational Databases, Dashboard Design and Development
+
+### 🙌🏻 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/tejalbhalerao/)
+- [Email](bhalerao.t@northeastern.edu)
