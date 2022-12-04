@@ -29,12 +29,3 @@
 - <img align="left" alt="holisitc_developer|LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>[LinkedIn](https://www.linkedin.com/in/tejalbhalerao/) 
 - 📧 Email : bhalerao.t@northeastern.edu 
 
-### Languages and Tools:
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code>[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]</code>
-<code><img height="27" src="https://kartikoedhi.files.wordpress.com/2010/08/java.jpg" alt="java"></code>
-<code><img height="27" src="https://d1wrxu8gicsgam.cloudfront.net/wp-content/files/django-logo-big-1024x640.jpg" alt="django"></code>
-<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="django"></code>
-<code><img height="27" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
