@@ -11,7 +11,7 @@
 - 📊 A Data Enthusiast looking for opportunities to grow in the field of Data Analytics, Business Analysis & BI
 - 👯 I’m looking to collaborate for Data & Business Intelligence Projects 
 - 🗣️ I am meticulous, organized, and precise in my work. The only things cleaner than my room are my visualizations.
-- ⚡ Fun fact: I enjoy watching sunsets while sipping my coffee
+- ⚡ Fun fact: I enjoy watching sunsets while sipping my coffee☕🌇
 
 ### 💪 Strengths 💪
 - Story Telling through Data (big picture ➡️ meaningful insights)
